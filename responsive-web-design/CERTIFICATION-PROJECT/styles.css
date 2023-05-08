@@ -1,0 +1,23 @@
+/*
+The work has been focused on functionality, not esthetism. Job will be updated in a few weeks to have better visual effects !
+*/
+
+body {
+  font-family: Arial;
+  background-color: rgb(0,127,127);
+}
+
+form {
+  background-color: rgb(100,100,100)
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0
+}
+
+fieldset {
+  border: none;
+  padding: 2em 1em;
+}
+
