@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+}
+
+#main {
+  background-color: #eeeeee;
+}
+
+#img-div {
+  background-color: white;
+  padding: 10px;
+}
+
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+h1, p {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#tribute-info {
+  padding: 100px;
+}
+
+.date-list li {
+  padding: 10px;
+}
+
+blockquote {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.recommandation {
+  font-size: 1.1rem;
+  padding: 20px;
+}
+
+#tribute-link {
+  color: #66b4ff;
+}
+
+#tribute-ling:visited {
+  color: #9a85f0;
+}
