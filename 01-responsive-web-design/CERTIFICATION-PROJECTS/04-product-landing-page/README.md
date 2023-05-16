@@ -1,5 +1,8 @@
 # Product Landing Page
 
+### Remark
+Functionallity is ok but this project need to be improved esthetically.
+
 ## Instructions 
 
 Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
