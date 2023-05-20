@@ -69,11 +69,13 @@ h3 {
 .project-tile {
 	text-align: center;
 	background-color: grey;
-	margin: auto;
-}
-
-.project-link {
-	border: 1px solid black;
+	padding: 10%;
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	margin: 0;
 }
 
 .project-grid {
@@ -97,15 +99,15 @@ h3 {
 }
 
 .project-image {
-	max-width: 100%; 
-  	max-height: 100%; 
-  	width: auto;
-  	height: auto; 
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
 }
 
 img {
 	object-fit: cover;
 	width: 100%;
+	margin: 0;
 }
 
 #show-all {
@@ -147,7 +149,7 @@ img {
 	margin-top: 3rem;
 }
 
-.profile-link {
+#profile-link {
 	font-size: 1.5em;
 	padding: 1em;
 }
@@ -165,4 +167,11 @@ p {
 
 section {
 	margin: 0;
+}
+
+@media screen and (max-width: 640px) {
+	#contact-method {
+		display: flex;
+		flex-direction: column;
+	}
 }
