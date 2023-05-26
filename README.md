@@ -1,8 +1,6 @@
 # FreeCodeCamp-
 Find here all the exercices and certification projects realized in the frame of my FreeCodeCamp learning.
 
-Here is my FreeCodeCamp profile : https://www.freecodecamp.org/idumenil
-
 FreeCodeCamp is a free e-learning platform based on practice and concrete projects. It is oriented to web development above all. It introduces you to HTML, CSS, Javascript and further langages. At the end of all certification projects, students are linked to organizations so that they can apply there skills to develop web applications.
 
 <br><br>
